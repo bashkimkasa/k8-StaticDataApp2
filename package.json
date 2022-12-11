@@ -18,7 +18,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "request": "^2.72.0"
   }
 }
